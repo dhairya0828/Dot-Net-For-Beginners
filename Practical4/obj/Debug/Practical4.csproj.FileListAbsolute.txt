@@ -1,0 +1,6 @@
+F:\Collage programs C#\DotNetPracticals\Practical4\obj\Debug\Practical4.csprojAssemblyReference.cache
+F:\Collage programs C#\DotNetPracticals\Practical4\bin\Debug\Practical4.exe.config
+F:\Collage programs C#\DotNetPracticals\Practical4\bin\Debug\Practical4.exe
+F:\Collage programs C#\DotNetPracticals\Practical4\bin\Debug\Practical4.pdb
+F:\Collage programs C#\DotNetPracticals\Practical4\obj\Debug\Practical4.exe
+F:\Collage programs C#\DotNetPracticals\Practical4\obj\Debug\Practical4.pdb
