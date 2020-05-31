@@ -10,7 +10,7 @@ namespace Practical4
     {
         bool IsAlNum(char c)
         {
-            Console.WriteLine(c);
+         //   Console.WriteLine(c);
             if (c >= 'a' && c <= 'z')
                 return true;
             if (c >= 'A' && c <= 'Z')

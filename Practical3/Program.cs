@@ -16,7 +16,7 @@ namespace Practical3
             Regex regex = new Regex(@"^[a-z]+$", RegexOptions.IgnoreCase);
             // In this ary ^ stands for "must start with", + stands for 1 or more chars, $ stands for must end with
 
-            Console.WriteLine("!!! Warning :- Entered Name and Countery must be alphabets only else you will have to enter again.");
+            Console.WriteLine("!!! Warning :- Entered Name and Countery must be alphabets only else you will have to enter again.\n");
 
             
             do {
@@ -30,7 +30,7 @@ namespace Practical3
                 country = Console.ReadLine();
             } while (regex.IsMatch(country) == false);
 
-            Console.WriteLine("Hey " + name + ", We know you love " + country + ".");
+            Console.WriteLine("Hey " + name + ",From " + country + ".");
             Console.Read();
         }
     }

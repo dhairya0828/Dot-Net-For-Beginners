@@ -1,0 +1,8 @@
+F:\Collage programs C#\DotNetPracticals\Practical10\obj\Debug\Practical10.csprojAssemblyReference.cache
+F:\Collage programs C#\DotNetPracticals\Practical10\obj\Debug\Practical10.Properties.Resources.resources
+F:\Collage programs C#\DotNetPracticals\Practical10\obj\Debug\Practical10.csproj.GenerateResource.cache
+F:\Collage programs C#\DotNetPracticals\Practical10\bin\Debug\Practical10.exe.config
+F:\Collage programs C#\DotNetPracticals\Practical10\bin\Debug\Practical10.exe
+F:\Collage programs C#\DotNetPracticals\Practical10\bin\Debug\Practical10.pdb
+F:\Collage programs C#\DotNetPracticals\Practical10\obj\Debug\Practical10.exe
+F:\Collage programs C#\DotNetPracticals\Practical10\obj\Debug\Practical10.pdb
